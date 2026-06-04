@@ -1,0 +1,11 @@
+[package]
+name = "ternary-inference"
+version = "0.1.0"
+edition = "2021"
+description = "Inference from ternary negative spaces — deducing knowledge from what agents avoid"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-inference"
+keywords = ["ternary", "inference", "negative-space", "deduction"]
+categories = ["algorithms", "science"]
+
+[dependencies]
